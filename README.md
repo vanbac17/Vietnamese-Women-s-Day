@@ -237,7 +237,7 @@ h1 {
             <br><br>
 
             Vượt qua giai đoạn khó khăn xa cách này, anh chắc chắn rằng
-            chúng ta sẽ có một cái kết đẹp, <strong>Happy Ending</strong> nhaa. 🥹
+            chúng ta sẽ có một cái kết đẹp, <strong>Happy Ending</strong> nhaa. 
 
             <br><br>
 
@@ -246,7 +246,7 @@ h1 {
             </strong>
         </div>
 
-        <div class="ending">Happy Ending 💞</div>
+        <div class="ending">Happy VietNamese Woman'Day 💞</div>
 
         <div class="kisses">😘 💋 💗 🥰 💋 😘</div>
     </section>
