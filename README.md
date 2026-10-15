@@ -242,7 +242,7 @@ h1 {
             <br><br>
 
             <strong>
-                Anh yêu bé Tình của anh nhiều lắmm! ❤️
+                Anh yêu bé Tình của anh nhiều lắmm! ❤️❤️❤️
             </strong>
         </div>
 
